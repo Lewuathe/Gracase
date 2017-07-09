@@ -1,4 +1,4 @@
-Gracase
+Gracase [![Build Status](https://travis-ci.org/Lewuathe/Gracase.svg?branch=master)](https://travis-ci.org/Lewuathe/Gracase)
 =====
 
 Gracase is the library to provide the bridge between Scala object and GraphQL query by using Scala meta macros.
